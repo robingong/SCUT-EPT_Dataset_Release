@@ -1,5 +1,6 @@
 # SCUT-EPT_Dataset_Release
 
+[论文]（https://ieeexplore.ieee.org/abstract/document/8565866）
 The SCUT-EPT Dataset for the research of offline handwritten Chinese text recognition (HCTR) in educational documents is now released by Deep Leaning and Visual Computing Lab of South China University of Technology. The dataset can be downloaded through the following link:
 
 - [Baidu Cloud](https://pan.baidu.com/s/1h4d1ogn_MAnE_X0LNHowYg)  (Password : bk3x , Size = 1.08GB)
